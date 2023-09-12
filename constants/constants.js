@@ -1,26 +1,25 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Shameer Sunil';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `3D designer | Open Source Contributor | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
+  Residence: 'India',
+  City: 'Thrissur',
   Age: '23',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '85%',
+    title: '3D designer',
+    level: '99%',
   },
   {
     title: 'React Developer',
-    level: '90%',
+    level: '40%',
   },
-  {
-    title: 'Desktop Application Developer',
-    level: '75%',
-  },
+
+
+
   {
     title: 'Backend Developer',
     level: '55%',
