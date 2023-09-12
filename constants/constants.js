@@ -56,12 +56,12 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'i@gmail.com',
+  PHONE: '+92315959122',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/osamajvaid',
+  LINKEDIN: 'https://www.linkedin.com/in/iosamajaaid/',
+  TWITTER: 'https://twitter.com/iosamajavid',
+  FACEBOOK: 'https://www.facebook.com/iosamajavid',
 };
